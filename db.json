@@ -1,0 +1,35 @@
+{
+  "workout": [
+    {
+      "id":1,
+      "text":"Pull up",
+      "sets": "3x10",
+      "isDone": false
+  },
+  {
+      "id":2,
+      "text":"Sit up",
+      "sets": "2x10",
+      "isDone": false
+  },
+  {
+      "id":3,
+      "text":"Push up",
+      "sets": "3x10",
+      "isDone": false
+  },
+  {
+      "id":4,
+      "text":"Run",
+      "sets": "3km",
+      "isDone": false
+  },
+  {
+      "id":5,
+      "text":"Svømme",
+      "sets": "1km",
+      "isDone": false
+  }
+
+  ]
+}
